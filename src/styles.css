@@ -33,6 +33,25 @@ button {
   font-size: 14px;
 }
 
+hr {
+  margin-top: 15px;
+}
+
+.api-data-container {
+  display: grid;
+  align-items: center;
+}
+
+.api-data-container input {
+  height: 33px;
+  width: 350px;
+  border: 1px solid #ddd;
+  border-radius:  4px;
+  font-size: 14px;
+  padding: 0 10px;
+  margin-top: 5px;
+}
+
 div li button {
   margin: 0 15px;
   background: #ca4949;
